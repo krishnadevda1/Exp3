@@ -3,3 +3,4 @@ a = 20
 b = 30
 print("sum",a+b)
 print("mult",a*b)
+print("Div",a/b)
